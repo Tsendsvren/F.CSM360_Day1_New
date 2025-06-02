@@ -1,0 +1,15 @@
+# Java compiled class files
+*.class
+
+# IntelliJ / VSCode / Eclipse төсөл
+.idea/
+.vscode/
+*.iml
+
+# OS-н системийн файлууд
+.DS_Store
+Thumbs.db
+
+# c compiled files
+*.o
+*.exe
