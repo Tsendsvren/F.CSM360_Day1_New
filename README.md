@@ -33,8 +33,11 @@
 VSCode-ийн гаралт:
 
 I am walking
+
 I am flying
+
 I am singing
+
 ---
 
 ### Ажил 2-ийн үр дүн:
@@ -48,8 +51,11 @@ I am singing
 VSCode-ийн гаралт:
 
 Name: Saveli Sujatha
+
 Age: 25
+
 Country: USA
+
 ---
 
 ### Ажил 3-ийн үр дүн:
@@ -63,6 +69,7 @@ Country: USA
 VSCode-ийн гаралт:
 
 My superclass is: Arithmetic
+
 42 13 20
 
 
