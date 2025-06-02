@@ -38,4 +38,39 @@ I am flying
 
 I am singing
 
+---
+
+### Ажил 2-ийн үр дүн:
+
+<p align="center">
+  <img src="src/image/Ajil1.2.png" alt="Ajil1.2" width="full"/>
+</p>
+
+---
+
+VSCode-ийн гаралт:
+
+Name: Saveli Sujatha
+
+Age: 25
+
+Country: USA
+
+---
+
+### Ажил 3-ийн үр дүн:
+
+<p align="center">
+  <img src="src/image/Ajil1.3.png" alt="Ajil1.3" width="full"/>
+</p>
+
+---
+
+VSCode-ийн гаралт:
+
+My superclass is: Arithmetic
+
+42 13 20
+
+
 ✅ **ТАЙЛАН ДУУСАВ!**
